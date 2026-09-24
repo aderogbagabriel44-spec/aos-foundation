@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#E6DDD3"/>
+<path d="M0 620 C220 500 360 700 560 570 S920 470 1200 590 V800 H0Z" fill="#D5C6B8"/>
+<circle cx="950" cy="190" r="95" fill="#EAD7C6" opacity=".9"/>
+<text x="70" y="120" font-family="Arial,sans-serif" font-size="30" letter-spacing="5" fill="#7A4A2D">AOS FOUNDATION</text>
+<text x="70" y="360" font-family="Georgia,serif" font-size="58" fill="#171513">Family & Community</text>
+<text x="70" y="420" font-family="Arial,sans-serif" font-size="26" fill="#5F5952">Replace with an approved community image.</text>
+</svg>
